@@ -2,7 +2,7 @@
   "name": "counter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://winphyoei.github.io",
+  "homepage": "https://winphyoei.github.io/CounterNew",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
